@@ -1,3 +1,3 @@
-# Dashboard about Scotch Whisky
+# Dashboard about Chocolate Bars
 
-We are building a dashboard containing data about Scottish Whisky and Data Science.
+We are building a dashboard containing data about Chocolate Bars and Data Science.
